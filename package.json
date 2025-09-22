@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "binhne",
+  "main": "src/sever.js",
+  "license": "true",
+  "private": true,
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
