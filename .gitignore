@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Optional: logs và cache
+*.log
+.DS_Store
+dist/
+build/
