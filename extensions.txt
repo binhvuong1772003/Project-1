@@ -1,0 +1,5 @@
+adpyke.codesnap
+akamud.vscode-theme-onedark
+eamodio.gitlens
+irongeek.vscode-env
+vscode-icons-team.vscode-icons
